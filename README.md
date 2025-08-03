@@ -37,7 +37,7 @@ The code demonstrates *all* official React hooks available up to React 18.3 (202
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/your-org/sa-3d-sales-dashboard.git
